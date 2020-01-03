@@ -7,7 +7,7 @@ using System.Net.Http;
 
 namespace AsyncAndAwait
 {
-    public static class Program
+    public static class Program9
     {
         public static void Main()
         {
